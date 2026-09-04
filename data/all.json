@@ -1,9 +1,9 @@
 {
   "ok": true,
-  "generated_at": "2026-09-04T17:35:13.278Z",
+  "generated_at": "2026-09-04T17:40:28.090Z",
   "data": {
     "currencies": {
-      "last_update": "21:05 جمعه 13 شهریور 1405",
+      "last_update": "21:10 جمعه 13 شهریور 1405",
       "unit": "toman",
       "items": [
         {
@@ -52,7 +52,7 @@
           "name": "دلار استرالیا",
           "buy_toman": 157300,
           "sell_toman": 159700,
-          "per_usd": 1.387
+          "per_usd": 1.388
         },
         {
           "name": "روبل روسیه",
@@ -116,8 +116,8 @@
         },
         {
           "name": "صد ین ژاپن",
-          "buy_toman": 139200,
-          "sell_toman": 142000,
+          "buy_toman": 139100,
+          "sell_toman": 141900,
           "per_usd": 1.561
         },
         {
@@ -158,8 +158,8 @@
         },
         {
           "name": "کرون نروژ",
-          "buy_toman": 23120,
-          "sell_toman": 23840,
+          "buy_toman": 23100,
+          "sell_toman": 23820,
           "per_usd": 9.3
         },
         {
@@ -170,8 +170,8 @@
         },
         {
           "name": "دلار سنگاپور",
-          "buy_toman": 169700,
-          "sell_toman": 174940,
+          "buy_toman": 169680,
+          "sell_toman": 174920,
           "per_usd": 1.267
         },
         {
@@ -190,7 +190,7 @@
           "name": "کرون دانمارک",
           "buy_toman": 33400,
           "sell_toman": 34440,
-          "per_usd": 6.43
+          "per_usd": 6.44
         },
         {
           "name": "دینار بحرین",
@@ -273,71 +273,71 @@
       ]
     },
     "crypto": {
-      "last_update": "21:05 جمعه 13 شهریور 1405",
+      "last_update": "21:10 جمعه 13 شهریور 1405",
       "items": [
         {
           "name": "تتر Tether USDT",
           "symbol": "USDT",
-          "price_toman": 221106,
-          "change_toman_percent": 0.06,
+          "price_toman": 220900,
+          "change_toman_percent": 0.04,
           "price_usd": 1,
           "change_usd_percent": 0
         },
         {
           "name": "بیت کوین Bitcoin BTC",
           "symbol": "BTC",
-          "price_toman": 17600777001,
-          "change_toman_percent": 1.12,
-          "price_usd": 79510,
-          "change_usd_percent": 1.92
+          "price_toman": 17527467143,
+          "change_toman_percent": 0.87,
+          "price_usd": 79561,
+          "change_usd_percent": 1.98
         },
         {
           "name": "اتریوم Ethereum ETH",
           "symbol": "ETH",
-          "price_toman": 539321050,
-          "change_toman_percent": 2.12,
+          "price_toman": 538999999,
+          "change_toman_percent": 1.82,
           "price_usd": 2449,
-          "change_usd_percent": 2.11
+          "change_usd_percent": 2.28
         },
         {
           "name": "ریپل Ripple XRP",
           "symbol": "XRP",
-          "price_toman": 308864,
-          "change_toman_percent": 3.53,
+          "price_toman": 308101,
+          "change_toman_percent": 4.04,
           "price_usd": 1.395,
-          "change_usd_percent": 4.26
+          "change_usd_percent": 4.62
         },
         {
           "name": "بایننس کوین binance coin BNB",
           "symbol": "BNB",
-          "price_toman": 158764033,
-          "change_toman_percent": 0.52,
+          "price_toman": 158254309,
+          "change_toman_percent": 0.84,
           "price_usd": 717.8,
-          "change_usd_percent": 0.46
+          "change_usd_percent": 0.58
         },
         {
           "name": "شیبا shiba ino SHIB",
           "symbol": "SHIB",
           "price_toman": 1,
-          "change_toman_percent": 3.99,
+          "change_toman_percent": 4,
           "price_usd": 0.0000052,
-          "change_usd_percent": 4.24
+          "change_usd_percent": 4.41
         },
         {
           "name": "کاردانو Cardano ADA",
           "symbol": "ADA",
-          "price_toman": 46530,
-          "change_toman_percent": 4.19,
+          "price_toman": 46333,
+          "change_toman_percent": 4.92,
           "price_usd": 0.212,
           "change_usd_percent": 4.55
         },
         {
           "name": "دوج‌کوین Dogecoin DOGE",
           "symbol": "DOGE",
-          "price_toman": 18602,
-          "change_toman_percent": 5.38,
-          "price_usd": 0.0844,
-          "change_usd_percent": 5.9
+          "price_toman": 18631,
+          "change_toman_percent": 5.69,
+          "price_usd": 0.0843,
+          "change_usd_percent": 6.02
         },
         {
           "name": "تون کوین Toncoin TON",
@@ -351,105 +351,105 @@
           "name": "نات کوین Notcoin NOT",
           "symbol": "NOT",
           "price_toman": 99,
-          "change_toman_percent": 0.1,
+          "change_toman_percent": 1.2,
           "price_usd": 0.00045,
-          "change_usd_percent": 0.45
+          "change_usd_percent": 0.67
         },
         {
           "name": "سولانا Solana SOL",
           "symbol": "SOL",
-          "price_toman": 22461006,
-          "change_toman_percent": 2.87,
-          "price_usd": 101.6,
-          "change_usd_percent": 3.2
+          "price_toman": 22377040,
+          "change_toman_percent": 3.54,
+          "price_usd": 101.4,
+          "change_usd_percent": 3.58
         },
         {
           "name": "ترون TRON TRX",
           "symbol": "TRX",
-          "price_toman": 73278,
-          "change_toman_percent": 0.35,
+          "price_toman": 73239,
+          "change_toman_percent": 0.52,
           "price_usd": 0.331,
-          "change_usd_percent": 0.21
+          "change_usd_percent": 0.24
         },
         {
           "name": "پنکیک سواپ Pancakeswap CAKE",
           "symbol": "CAKE",
           "price_toman": 432504,
           "change_toman_percent": 0.99,
-          "price_usd": 1.973,
-          "change_usd_percent": 0.8
+          "price_usd": 1.972,
+          "change_usd_percent": 1.1
         },
         {
           "name": "آوالانچ Avalanche AVAX",
           "symbol": "AVAX",
-          "price_toman": 1632114,
-          "change_toman_percent": 1.8,
-          "price_usd": 7.36,
-          "change_usd_percent": 2.03
+          "price_toman": 1626444,
+          "change_toman_percent": 2.14,
+          "price_usd": 7.35,
+          "change_usd_percent": 2.4
         },
         {
           "name": "پولکادات Polkadot DOT",
           "symbol": "DOT",
-          "price_toman": 189614,
-          "change_toman_percent": 3.45,
-          "price_usd": 0.857,
-          "change_usd_percent": 3.49
+          "price_toman": 189613,
+          "change_toman_percent": 3.07,
+          "price_usd": 0.856,
+          "change_usd_percent": 3.71
         },
         {
           "name": "چین‌لینک Chainlink LINK",
           "symbol": "LINK",
-          "price_toman": 2580056,
-          "change_toman_percent": 0.35,
-          "price_usd": 11.63,
-          "change_usd_percent": 0.86
+          "price_toman": 2572539,
+          "change_toman_percent": 0.64,
+          "price_usd": 11.62,
+          "change_usd_percent": 1.11
         },
         {
           "name": "لایت‌کوین Litecoin LTC",
           "symbol": "LTC",
           "price_toman": 11180571,
-          "change_toman_percent": 1.63,
-          "price_usd": 50.44,
-          "change_usd_percent": 1.64
+          "change_toman_percent": 1.8,
+          "price_usd": 50.39,
+          "change_usd_percent": 1.89
         },
         {
           "name": "پپه Pepe PEPE",
           "symbol": "PEPE",
           "price_toman": 1,
-          "change_toman_percent": 6.85,
+          "change_toman_percent": 6.92,
           "price_usd": 0.00000354,
-          "change_usd_percent": 7.33
+          "change_usd_percent": 7.57
         },
         {
           "name": "یونی‌سواپ Uniswap UNI",
           "symbol": "UNI",
-          "price_toman": 1366600,
-          "change_toman_percent": 1.6,
-          "price_usd": 6.189,
-          "change_usd_percent": 1.13
+          "price_toman": 1368727,
+          "change_toman_percent": 1.1,
+          "price_usd": 6.187,
+          "change_usd_percent": 0.78
         },
         {
           "name": "استلار Stellar XLM",
           "symbol": "XLM",
           "price_toman": 39400,
           "change_toman_percent": 4.68,
-          "price_usd": 0.1789,
-          "change_usd_percent": 4.38
+          "price_usd": 0.1787,
+          "change_usd_percent": 4.54
         },
         {
           "name": "فایل‌کوین Filecoin FIL",
           "symbol": "FIL",
           "price_toman": 163991,
           "change_toman_percent": 6.02,
-          "price_usd": 0.746,
-          "change_usd_percent": 7.08
+          "price_usd": 0.745,
+          "change_usd_percent": 7.12
         },
         {
           "name": "نیر پروتکل NEAR Protocol NEAR",
           "symbol": "NEAR",
-          "price_toman": 419800,
+          "price_toman": 419802,
           "change_toman_percent": 4.41,
-          "price_usd": 2.006,
-          "change_usd_percent": 0.5
+          "price_usd": 1.992,
+          "change_usd_percent": 0.45
         },
         {
           "name": "ایاس EOS EOS",
@@ -463,33 +463,33 @@
           "name": "آوه Aave AAVE",
           "symbol": "AAVE",
           "price_toman": 28966458,
-          "change_toman_percent": 0.99,
-          "price_usd": 131.05,
-          "change_usd_percent": 2.38
+          "change_toman_percent": 1.73,
+          "price_usd": 130.83,
+          "change_usd_percent": 2.71
         },
         {
           "name": "گراف The Graph GRT",
           "symbol": "GRT",
           "price_toman": 3720,
-          "change_toman_percent": 1.46,
-          "price_usd": 0.0168,
-          "change_usd_percent": 2.04
+          "change_toman_percent": 2.26,
+          "price_usd": 0.01682,
+          "change_usd_percent": 2.15
         },
         {
           "name": "تزوس Tezos XTZ",
           "symbol": "XTZ",
-          "price_toman": 48000,
-          "change_toman_percent": 4,
+          "price_toman": 50540,
+          "change_toman_percent": 1.08,
           "price_usd": 0.2282,
-          "change_usd_percent": 0.18
+          "change_usd_percent": 0.31
         },
         {
           "name": "فلو Flow FLOW",
           "symbol": "FLOW",
           "price_toman": 5908,
           "change_toman_percent": 1.93,
-          "price_usd": 0.0276,
-          "change_usd_percent": 0.86
+          "price_usd": 0.0275,
+          "change_usd_percent": 1.08
         },
         {
           "name": "سندباکس The Sandbox SAND",
@@ -497,30 +497,30 @@
           "price_toman": 8587,
           "change_toman_percent": 3.51,
           "price_usd": 0.039,
-          "change_usd_percent": 3.44
+          "change_usd_percent": 3.56
         },
         {
           "name": "دی‌سنترالند Decentraland MANA",
           "symbol": "MANA",
           "price_toman": 16300,
-          "change_toman_percent": 2.11,
-          "price_usd": 0.0734,
-          "change_usd_percent": 2.26
+          "change_toman_percent": 2.52,
+          "price_usd": 0.0733,
+          "change_usd_percent": 2.53
         },
         {
           "name": "اکسی اینفینیتی Axie Infinity AXS",
           "symbol": "AXS",
-          "price_toman": 200205,
-          "change_toman_percent": 4.7,
+          "price_toman": 203214,
+          "change_toman_percent": 3.27,
           "price_usd": 0.921,
-          "change_usd_percent": 3.46
+          "change_usd_percent": 3.56
         },
         {
           "name": "چیلیز Chiliz CHZ",
           "symbol": "CHZ",
           "price_toman": 2933,
           "change_toman_percent": 3.74,
-          "price_usd": 0.01338,
+          "price_usd": 0.01339,
           "change_usd_percent": 2.83
         },
         {
@@ -528,16 +528,16 @@
           "symbol": "ENJ",
           "price_toman": 5949,
           "change_toman_percent": 3.41,
-          "price_usd": 0.02714,
-          "change_usd_percent": 4.34
+          "price_usd": 0.02707,
+          "change_usd_percent": 3.88
         },
         {
           "name": "زدکش Zcash ZEC",
           "symbol": "ZEC",
-          "price_toman": 218618813,
-          "change_toman_percent": 5.44,
-          "price_usd": 1016.61,
-          "change_usd_percent": 7.8
+          "price_toman": 218513635,
+          "change_toman_percent": 5.67,
+          "price_usd": 1018.76,
+          "change_usd_percent": 6.89
         },
         {
           "name": "گالا Gala GALA",
@@ -545,7 +545,7 @@
           "price_toman": 382,
           "change_toman_percent": 4.26,
           "price_usd": 0.00176,
-          "change_usd_percent": 2.93
+          "change_usd_percent": 3.09
         },
         {
           "name": "لوپرینگ Loopring LRC",
@@ -561,7 +561,7 @@
           "price_toman": 15227,
           "change_toman_percent": 2.16,
           "price_usd": 0.0703,
-          "change_usd_percent": 0.99
+          "change_usd_percent": 1.13
         },
         {
           "name": "هارمونی Harmony ONE",
@@ -576,8 +576,8 @@
           "symbol": "ZEN",
           "price_toman": 1318122,
           "change_toman_percent": 5.65,
-          "price_usd": 6.521,
-          "change_usd_percent": 12.47
+          "price_usd": 6.532,
+          "change_usd_percent": 12.04
         },
         {
           "name": "سیویک Civic CVC",
@@ -585,98 +585,98 @@
           "price_toman": 4667,
           "change_toman_percent": 2.36,
           "price_usd": 0.021,
-          "change_usd_percent": 1.45
+          "change_usd_percent": 1.59
         },
         {
           "name": "استورج Storj STORJ",
           "symbol": "STORJ",
-          "price_toman": 6730,
-          "change_toman_percent": 3.21,
+          "price_toman": 6878,
+          "change_toman_percent": 1.08,
           "price_usd": 0.0298,
           "change_usd_percent": 7.17
         }
       ]
     },
     "gold": {
-      "last_update": "21:05 جمعه 13 شهریور 1405",
+      "last_update": "21:10 جمعه 13 شهریور 1405",
       "items": [
         {
           "name": "آبشده(مثقال طلا)",
           "price": 100250000,
           "currency": "TOMAN",
           "change_percent": 0.87,
-          "real_price_toman": 102290000,
-          "bubble_amount_toman": -2040000,
-          "bubble_percent": -1.99
+          "real_price_toman": 102206000,
+          "bubble_amount_toman": -1956000,
+          "bubble_percent": -1.91
         },
         {
           "name": "گرم طلای 18 عیار",
           "price": 23142800,
           "currency": "TOMAN",
           "change_percent": 0.87,
-          "real_price_toman": 23614000,
-          "bubble_amount_toman": -471200,
-          "bubble_percent": -2
+          "real_price_toman": 23594000,
+          "bubble_amount_toman": -451200,
+          "bubble_percent": -1.91
         },
         {
           "name": "سکه امامی (طرح جدید)",
           "price": 234000000,
           "currency": "TOMAN",
           "change_percent": 0,
-          "real_price_toman": 230768000,
-          "bubble_amount_toman": 3232000,
-          "bubble_percent": 1.4
+          "real_price_toman": 230581000,
+          "bubble_amount_toman": 3419000,
+          "bubble_percent": 1.48
         },
         {
           "name": "سکه بهار آزادی",
           "price": 229000000,
           "currency": "TOMAN",
           "change_percent": 0,
-          "real_price_toman": 230768000,
-          "bubble_amount_toman": -1768000,
-          "bubble_percent": -0.77
+          "real_price_toman": 230581000,
+          "bubble_amount_toman": -1581000,
+          "bubble_percent": -0.69
         },
         {
           "name": "نیم سکه",
           "price": 120000000,
           "currency": "TOMAN",
           "change_percent": 0,
-          "real_price_toman": 115516000,
-          "bubble_amount_toman": 4484000,
-          "bubble_percent": 3.88
+          "real_price_toman": 115422000,
+          "bubble_amount_toman": 4578000,
+          "bubble_percent": 3.97
         },
         {
           "name": "ربع سکه",
           "price": 66000000,
           "currency": "TOMAN",
           "change_percent": 0,
-          "real_price_toman": 57880000,
-          "bubble_amount_toman": 8120000,
-          "bubble_percent": 14.03
+          "real_price_toman": 57833000,
+          "bubble_amount_toman": 8167000,
+          "bubble_percent": 14.12
         },
         {
           "name": "سکه گرمی",
           "price": 35000000,
           "currency": "TOMAN",
           "change_percent": 0,
-          "real_price_toman": 28611000,
-          "bubble_amount_toman": 6389000,
-          "bubble_percent": 22.33
+          "real_price_toman": 28588000,
+          "bubble_amount_toman": 6412000,
+          "bubble_percent": 22.43
         },
         {
           "name": "انس طلا",
-          "price": 4433.18,
+          "price": 4429.57,
           "currency": "USD",
-          "change_percent": 0.9,
+          "change_percent": 0.98,
           "real_price_toman": null,
           "bubble_amount_toman": null,
           "bubble_percent": null
         },
         {
           "name": "انس نقره",
-          "price": 66.15,
+          "price": 66.09,
           "currency": "USD",
-          "change_percent": 1.22,
+          "change_percent": 1.31,
           "real_price_toman": null,
           "bubble_amount_toman": null,
           "bubble_percent": null
