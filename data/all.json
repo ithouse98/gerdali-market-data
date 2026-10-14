@@ -1,9 +1,9 @@
 {
   "ok": true,
-  "generated_at": "2026-10-14T03:00:13.461Z",
+  "generated_at": "2026-10-14T03:05:10.084Z",
   "data": {
     "currencies": {
-      "last_update": "06:30 چهارشنبه 22 مهر 1405",
+      "last_update": "06:35 چهارشنبه 22 مهر 1405",
       "unit": "toman",
       "items": [
         {
@@ -140,8 +140,8 @@
         },
         {
           "name": "فرانک سوئیس",
-          "buy_toman": 306700,
-          "sell_toman": 313000,
+          "buy_toman": 306800,
+          "sell_toman": 313100,
           "per_usd": 0.832
         },
         {
@@ -170,8 +170,8 @@
         },
         {
           "name": "دلار سنگاپور",
-          "buy_toman": 197420,
-          "sell_toman": 203520,
+          "buy_toman": 197440,
+          "sell_toman": 203540,
           "per_usd": 1.28
         },
         {
@@ -598,92 +598,74 @@
       ]
     },
     "gold": {
-      "last_update": "06:30 چهارشنبه 22 مهر 1405",
+      "last_update": "06:35 چهارشنبه 22 مهر 1405",
       "items": [
         {
           "name": "آبشده(مثقال طلا)",
           "price": 111380000,
           "currency": "TOMAN",
           "change_percent": 0,
-          "real_price_toman": 112948000,
-          "bubble_amount_toman": -1568000,
-          "bubble_percent": -1.39
+          "real_price_toman": 113002000,
+          "bubble_amount_toman": -1622000,
+          "bubble_percent": -1.44
         },
         {
           "name": "گرم طلای 18 عیار",
           "price": 25712180,
           "currency": "TOMAN",
           "change_percent": 0,
-          "real_price_toman": 26074000,
-          "bubble_amount_toman": -361820,
-          "bubble_percent": -1.39
+          "real_price_toman": 26087000,
+          "bubble_amount_toman": -374820,
+          "bubble_percent": -1.44
         },
         {
           "name": "سکه امامی (طرح جدید)",
           "price": 258000000,
           "currency": "TOMAN",
           "change_percent": 0,
-          "real_price_toman": 254783000,
-          "bubble_amount_toman": 3217000,
-          "bubble_percent": 1.26
+          "real_price_toman": 254905000,
+          "bubble_amount_toman": 3095000,
+          "bubble_percent": 1.21
         },
         {
           "name": "سکه بهار آزادی",
           "price": 250000000,
           "currency": "TOMAN",
           "change_percent": 0,
-          "real_price_toman": 254783000,
-          "bubble_amount_toman": -4783000,
-          "bubble_percent": -1.88
+          "real_price_toman": 254905000,
+          "bubble_amount_toman": -4905000,
+          "bubble_percent": -1.92
         },
         {
           "name": "نیم سکه",
           "price": 137500000,
           "currency": "TOMAN",
           "change_percent": 0,
-          "real_price_toman": 127521000,
-          "bubble_amount_toman": 9979000,
-          "bubble_percent": 7.83
+          "real_price_toman": 127582000,
+          "bubble_amount_toman": 9918000,
+          "bubble_percent": 7.77
         },
         {
           "name": "ربع سکه",
           "price": 71500000,
           "currency": "TOMAN",
           "change_percent": 0,
-          "real_price_toman": 63879000,
-          "bubble_amount_toman": 7621000,
-          "bubble_percent": 11.93
+          "real_price_toman": 63910000,
+          "bubble_amount_toman": 7590000,
+          "bubble_percent": 11.88
         },
         {
           "name": "سکه گرمی",
           "price": 35000000,
           "currency": "TOMAN",
           "change_percent": 0,
-          "real_price_toman": 31592000,
-          "bubble_amount_toman": 3408000,
-          "bubble_percent": 10.79
+          "real_price_toman": 31607000,
+          "bubble_amount_toman": 3393000,
+          "bubble_percent": 10.73
         },
         {
           "name": "انس طلا",
-          "price": 4162.16,
-          "currency": "USD",
-          "change_percent": 0.03,
-          "real_price_toman": null,
-          "bubble_amount_toman": null,
-          "bubble_percent": null
-        },
-        {
-          "name": "انس نقره",
-          "price": 59.19,
-          "currency": "USD",
-          "change_percent": 0.08,
-          "real_price_toman": null,
-          "bubble_amount_toman": null,
-          "bubble_percent": null
-        },
-        {
-          "name": "انس پلاتین",
-          "price": 1666.91,
+          "price": 4164.15,
           "currency": "USD",
           "change_percent": 0.02,
           "real_price_toman": null,
@@ -691,10 +673,28 @@
           "bubble_percent": null
         },
         {
-          "name": "انس پالادیوم",
-          "price": 1131.61,
+          "name": "انس نقره",
+          "price": 59.23,
           "currency": "USD",
-          "change_percent": 0.34,
+          "change_percent": 0.02,
+          "real_price_toman": null,
+          "bubble_amount_toman": null,
+          "bubble_percent": null
+        },
+        {
+          "name": "انس پلاتین",
+          "price": 1669.42,
+          "currency": "USD",
+          "change_percent": 0.18,
+          "real_price_toman": null,
+          "bubble_amount_toman": null,
+          "bubble_percent": null
+        },
+        {
+          "name": "انس پالادیوم",
+          "price": 1132.91,
+          "currency": "USD",
+          "change_percent": 0.45,
           "real_price_toman": null,
           "bubble_amount_toman": null,
           "bubble_percent": null
